@@ -138,7 +138,7 @@ public class App {
     }
 
     public static void init() {
-        String filePath = "C:\\Users\\namph\\IdeaProjects\\OOP\\data\\countries.csv";
+        String filePath = "data/countries.csv";
         readListData(filePath);
     }
 

@@ -1,4 +1,4 @@
-package week1;
+package lab1;
 
 public class PrintNumberInWord {
     public static void main(String[] args) {

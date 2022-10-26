@@ -1,4 +1,4 @@
-package week1;
+package lab1;
 
 public class ExtractDigits {
     public static void printExtractDigits(int n){

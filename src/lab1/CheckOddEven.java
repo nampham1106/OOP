@@ -1,4 +1,4 @@
-package week1;
+package lab1;
 
 public class CheckOddEven {
     public static boolean isOddNumber(int n){
