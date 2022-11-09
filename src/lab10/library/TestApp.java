@@ -22,6 +22,7 @@ public class TestApp {
 
 
         Library library = new Library(rents);
+
         System.out.println(library.getLongestRent());
     }
 }

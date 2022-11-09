@@ -15,6 +15,9 @@ public class MyHashMap implements MyMap{
     @Override
     public Object get(Object key) {
         int bucket = getBucket(key);
+        if (table[bucket] != null) {
+            return table[bucket].getValue();
+        }
         return null;
     }
 

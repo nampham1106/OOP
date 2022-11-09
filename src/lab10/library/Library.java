@@ -10,7 +10,9 @@ public class Library {
     public Rent getLongestRent() {
         Rent tmp = rents[0];
         for (Rent element : rents) {
-            if (tmp.getStudent().average < element.getStudent().average) {
+            long timeRent = tmp.getEnd().getTime() - tmp.getBegin().getTime();
+            long timeRentElement = element.getEnd().getTime() - element.getBegin().getTime();
+            if (timeRent < timeRentElement) {
                 tmp = element;
             }
         }

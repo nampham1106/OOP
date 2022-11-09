@@ -19,7 +19,7 @@ public class MyArrayList extends MyAbstractList{
         if (index > size) {
             add(o);
         } else {
-            for (int i = size; i >= index; i--) {
+            for (int i = size; i > index; i--) {
                 elements[i] = elements[i - 1];
             }
             elements[index] = o;

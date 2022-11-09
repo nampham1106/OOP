@@ -48,4 +48,17 @@ public class ListPoly extends AbstractPoly {
         Poly diff = new ListPoly(degreeDiff);
         return diff;
     }
+
+    @Override
+    public String toString() {
+        StringBuilder description = new StringBuilder();
+        for (int i = this.degree() - 1; i >= 0; i--) {
+            description.append(coeficients.get(i))
+                    .append("x^")
+                    .append(i)
+                    .append(" + ");
+        }
+        description.delete(description.length() - 3, description.length());
+        return description.toString();
+    }
 }
