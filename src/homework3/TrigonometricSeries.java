@@ -28,7 +28,7 @@ public class TrigonometricSeries {
         x = x * (3.14 / 180);
         double term = 1;
         double sum = 1;
-        for (int i = 1; i <= term; i++) {
+        for (int i = 1; i <= numTerms; i++) {
             term = (term * x * x * (-1)) / ((2 * i - 1) * 2 * i);
             sum += term;
         }
