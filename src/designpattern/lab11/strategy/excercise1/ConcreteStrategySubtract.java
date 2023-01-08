@@ -1,4 +1,4 @@
-package strategy.excercise1;
+package designpattern.lab11.strategy.excercise1;
 
 public class ConcreteStrategySubtract implements Strategy{
     @Override

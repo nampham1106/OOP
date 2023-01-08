@@ -1,4 +1,4 @@
-package strategy.excercise2;
+package designpattern.lab11.strategy.excercise2;
 
 import java.io.IOException;
 import java.util.HashMap;

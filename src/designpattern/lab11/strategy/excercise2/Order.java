@@ -1,4 +1,4 @@
-package strategy.excercise2;
+package designpattern.lab11.strategy.excercise2;
 
 public class Order {
     private int totalCost = 0;

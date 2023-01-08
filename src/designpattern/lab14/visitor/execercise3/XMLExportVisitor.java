@@ -1,4 +1,4 @@
-package visitor.execercise3;
+package designpattern.lab14.visitor.execercise3;
 
 public class XMLExportVisitor implements Visitor{
     public String export(Shape... args) {

@@ -1,4 +1,4 @@
-package strategy.excercise2;
+package designpattern.lab11.strategy.excercise2;
 
 public class CreditCardValidator {
     public static boolean isValid(long number) {

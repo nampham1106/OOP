@@ -1,8 +1,8 @@
-package factory.abstractfactory.excercise2.factories;
+package designpattern.lab12.factory.abstractfactory.excercise2.factories;
 
-import factory.abstractfactory.excercise2.shape.Shape;
-import factory.abstractfactory.excercise2.shape.square.RoundedSquare;
-import factory.abstractfactory.excercise2.shape.square.SquareFormal;
+import designpattern.lab12.factory.abstractfactory.excercise2.shape.Shape;
+import designpattern.lab12.factory.abstractfactory.excercise2.shape.square.RoundedSquare;
+import designpattern.lab12.factory.abstractfactory.excercise2.shape.square.SquareFormal;
 
 public class SquareFactory implements AbstractFactory{
 

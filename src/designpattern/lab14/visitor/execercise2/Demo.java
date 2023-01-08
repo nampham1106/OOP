@@ -1,4 +1,4 @@
-package visitor.execercise2;
+package designpattern.lab14.visitor.execercise2;
 
 public class Demo {
     public static void main(String[] args) {

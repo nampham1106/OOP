@@ -1,4 +1,4 @@
-package factory.abstractfactory.excercise2.shape.square;
+package designpattern.lab12.factory.abstractfactory.excercise2.shape.square;
 
 public class RoundedSquare extends Square{
     @Override

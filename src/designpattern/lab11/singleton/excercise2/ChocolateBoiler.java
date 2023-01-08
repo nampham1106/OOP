@@ -1,4 +1,4 @@
-package singleton.excercise2;
+package designpattern.lab11.singleton.excercise2;
 
 public class ChocolateBoiler {
     private boolean empty;

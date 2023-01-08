@@ -1,4 +1,4 @@
-package singleton.excercise1;
+package designpattern.lab11.singleton.excercise1;
 
 public class Database {
     private static Database instance;

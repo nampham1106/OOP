@@ -1,4 +1,4 @@
-package visitor.execercise2;
+package designpattern.lab14.visitor.execercise2;
 
 public class ComputerPartDisplayVisitor implements ComputerPartVisitor {
     @Override

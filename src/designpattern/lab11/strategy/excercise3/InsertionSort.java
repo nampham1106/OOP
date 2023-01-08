@@ -1,4 +1,4 @@
-package strategy.excercise3;
+package designpattern.lab11.strategy.excercise3;
 
 public class InsertionSort implements ISort{
     @Override

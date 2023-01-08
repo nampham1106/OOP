@@ -1,8 +1,9 @@
-package factory.abstractfactory.excercise2.app;
+package designpattern.lab12.factory.abstractfactory.excercise2.app;
 
-import factory.abstractfactory.excercise2.factories.AbstractFactory;
-import factory.abstractfactory.excercise2.factories.FactoryProducer;
-import factory.abstractfactory.excercise2.shape.Shape;
+
+import designpattern.lab12.factory.abstractfactory.excercise2.factories.AbstractFactory;
+import designpattern.lab12.factory.abstractfactory.excercise2.factories.FactoryProducer;
+import designpattern.lab12.factory.abstractfactory.excercise2.shape.Shape;
 
 public class Demo {
     public static void main(String[] args) {

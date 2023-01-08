@@ -1,4 +1,4 @@
-package factory.abstractfactory.excercise2.factories;
+package designpattern.lab12.factory.abstractfactory.excercise2.factories;
 
 public class FactoryProducer {
     public AbstractFactory getFactory(String type) {

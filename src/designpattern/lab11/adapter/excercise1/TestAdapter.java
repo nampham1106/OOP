@@ -1,4 +1,4 @@
-package adapter.excercise1;
+package designpattern.lab11.adapter.excercise1;
 
 public class TestAdapter {
     public static void main(String[] args) {

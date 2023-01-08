@@ -1,4 +1,4 @@
-package factory.factorymethod.excercise2;
+package designpattern.lab12.factory.factorymethod.excercise2;
 
 public class Apple implements Fruit{
     @Override

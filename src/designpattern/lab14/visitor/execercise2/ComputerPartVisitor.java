@@ -1,4 +1,4 @@
-package visitor.execercise2;
+package designpattern.lab14.visitor.execercise2;
 
 public interface ComputerPartVisitor {
     void visit(Computer computer);

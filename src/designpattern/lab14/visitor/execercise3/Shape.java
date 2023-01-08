@@ -1,4 +1,4 @@
-package visitor.execercise3;
+package designpattern.lab14.visitor.execercise3;
 
 public interface Shape {
     void move(int x, int y);

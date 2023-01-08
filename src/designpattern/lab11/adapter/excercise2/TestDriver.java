@@ -1,4 +1,4 @@
-package adapter.excercise2;
+package designpattern.lab11.adapter.excercise2;
 
 public class TestDriver {
     public static void main(String[] args) {
