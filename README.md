@@ -9,29 +9,25 @@ The content of this repo is built on:
 - lecturer: Th.S Quản Thái Hà
 
 ## Table contents
-1. Java basics
-- Review java basics include:
-    - [java basic 1]
+[1. Java basics](https://github.com/nampham1106/OOP/tree/main/src/javabase)
+- Review java basics
 
-[2. OOP](https://github.com/QuyAnh2005/Data-Structures-and-Algorithms/tree/main/2%20-%20Sorting)
+[2. OOP](https://github.com/nampham1106/OOP/tree/main/src/oop)
+- Introduction to OOP programming
+- Inheritance
+- Polymorphism
+- Abstraction and ADT
 
-Các thuật toán sắp xếp:
-- Sắp xếp nổi bọt (Bubble Sort)
-- Sắp xếp chọn (Selection Sort)
-- Sắp xếp chèn (Insertion Sort)
-- Sắp xếp trộn (Merge Sort)
-- Sắp xếp nhanh (Quick Sort)
-- Sắp xếp vun đống (Heap Sort)
+[3. Design Pattern](https://github.com/nampham1106/OOP/tree/main/src/designpattern)
+- Structural Design Patterns: adapter, bridge, composite, decorator, façade
+- Creational Design Patterns: factory method, abstract factory, builder, singleton
+- Behavioral Design Patterns: command, iterator, observer, strategy, visitor
 
-[3. Design Pattern](https://github.com/QuyAnh2005/Data-Structures-and-Algorithms/tree/main/3%20-%20Abstract%20Data%20Type%20and%20List%20ADT)
-- Kiểu dữ liệu trừu tượng 
-- Kiểu danh sách (List ADT):
-  - Dùng mảng (Array) 
-  - Dùng danh sách liên kết đơn (Linked List)
 ## Install
 To be able to run repo files, you first need to clone the repo to your computer:
 ```
 git clone https://github.com/nampham1106/OOP.git
 ```
 ## Reference
-[Michael T. Goodrich, Roberto Tamassia, Michael H. Goldwasser - Data Structures and Algorithms in Java-Wiley (2014)](https://drive.google.com/file/d/17qu4uiB6gb-fX6GE2X_rlkikSBnhZIwp/view?usp=sharing)
+- (7th Edition) Cay S. Horstmann - Big Java_ Early Objects, 7e-Wiley (2019)
+- Eric Freeman, Elisabeth Robson - Head F ... nted Software-O'Reilly Media (2020)
