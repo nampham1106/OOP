@@ -28,6 +28,7 @@ To be able to run repo files, you first need to clone the repo to your computer:
 ```
 git clone https://github.com/nampham1106/OOP.git
 ```
+## [git tutorial](https://github.com/nampham1106/OOP/blob/main/Git.pdf)
 ## Reference
 - (7th Edition) Cay S. Horstmann - Big Java_ Early Objects, 7e-Wiley (2019)
 - Eric Freeman, Elisabeth Robson - Head F ... nted Software-O'Reilly Media (2020)
